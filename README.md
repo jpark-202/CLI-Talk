@@ -1,4 +1,4 @@
-<h1>Chat-cmd</h2>
+<h1>Chat-CLI</h2>
 
 <!-- TABLE OF CONTENTS -->
 <details>
