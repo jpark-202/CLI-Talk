@@ -15,6 +15,7 @@ enum ListOutOfBounds {
     LIST_OOB_START,
     LIST_OOB_END
 };
+
 typedef struct List_s List;
 struct List_s {
     Node* pFirstNode;
@@ -24,7 +25,6 @@ struct List_s {
     List* pNextFreeHead;
     enum ListOutOfBounds lastOutOfBoundsReason;
 };
-
 
 static List s_heads[LIST_MAX_NUM_HEADS];
 static Node s_nodes[LIST_MAX_NUM_NODES];
