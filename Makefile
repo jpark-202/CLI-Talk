@@ -4,5 +4,6 @@ all: lets-talk.c
 	
 Valgrind: 
 	valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes --verbose ./lets-talk 3000 localhost 3001
+
 clean:
 	-rm -f *.o lets-talk
