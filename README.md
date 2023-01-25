@@ -1,4 +1,4 @@
-<h1>Chatbot</h2>
+<h1>Chat-cmd</h2>
 
 <!-- TABLE OF CONTENTS -->
 <details>
