@@ -1,6 +1,6 @@
+#include <stdbool.h>
 #ifndef _LIST_H_
 #define _LIST_H_
-#include <stdbool.h>
 
 #define LIST_SUCCESS 0
 #define LIST_FAIL -1
