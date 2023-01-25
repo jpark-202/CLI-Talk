@@ -5,7 +5,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">🧐 Project philosophy</a>
+      <a href="#🧐 Project philosophy">🧐 Project philosophy</a>
     </li>
     <li>
       <a href="#getting-started">🏃 Getting Started</a>
