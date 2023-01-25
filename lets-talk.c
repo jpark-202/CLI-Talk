@@ -13,7 +13,7 @@
 #include <netdb.h>
 #include <sys/time.h>
 
-#define BUFFER_SIZE 4002
+#define BUFFER_SIZE 4000
 
 List * inputList;
 List * outputList;
