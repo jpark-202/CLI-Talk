@@ -21,19 +21,18 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 🧐 Project philosophy
-The motivation is mainly on learning GO and goroutines 
+Motivation
 
-Fast-URL-Checker, as indicated by the name, it is a _quick_ url checking application. It uses "goroutines" to thrive in concurrency (speed).
-
+Explanation
 ## 🏃 Getting Started
 ### Prerequisites
 
-* Golang <br/>
-  * Download link: https://go.dev/doc/install
+<!-- * Golang <br/>
+  * Download link: https://go.dev/doc/install -->
 
 ### Installation
 
-1. Clone the repo
+<!-- 1. Clone the repo
    ```sh
    git clone https://github.com/jpark-202/Fast-URL-Checker.git
    ```
@@ -53,9 +52,8 @@ Fast-URL-Checker, as indicated by the name, it is a _quick_ url checking applica
 3. Execute to verify the URLs!
     ```sh
     go run fastURLChecker.go
-    ```
+    ``` -->
 <!-- USAGE EXAMPLES -->
 ## 👨‍💻 Usage (How it is be used)
-Fast-URL-Checker validates any quantity of any form of URL.
 
 
